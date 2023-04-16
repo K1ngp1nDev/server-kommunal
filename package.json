@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon .js"
   },
   "keywords": [],
   "author": "",
@@ -32,7 +32,6 @@
     "uuid": "^8.3.2"
   },
   "engines": {
-    "node": "18.16.0",
-    "npm": "9.5.1"
+    "node": "14.17.3"
   }
 }
